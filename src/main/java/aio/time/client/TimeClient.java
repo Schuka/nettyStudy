@@ -7,12 +7,5 @@ public class TimeClient {
 		System.out.println(1);
 		System.out.println(2);
 		///1234132413433
-		System.out.println("local update");
-		System.out.println("local update");
-		System.out.println("local update");
-		System.out.println("local update");
-		System.out.println("github update");
-		System.out.println("github update");
-		System.out.println("github update");
 	}
 }
