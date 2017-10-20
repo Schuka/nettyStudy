@@ -12,5 +12,6 @@ public class TimeClient {
 		System.out.println("local update");
 		System.out.println("github update");
 		System.out.println("github update");
+		System.out.println("github update");
 	}
 }
